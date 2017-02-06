@@ -3,3 +3,6 @@
 ################################################################################
 
 /uui-seed/bin
+/.vs
+/uui-seed/obj/Debug
+/uui-seed/bower_components
