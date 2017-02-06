@@ -240,6 +240,7 @@
     <Content Include="uui2\fonts\font-sourcesanspro\sourcesanspro-light.svg" />
     <Content Include="uui2\fonts\font-sourcesanspro\sourcesanspro-regular.svg" />
     <Content Include="uui2\fonts\font-sourcesanspro\sourcesanspro-semibold.svg" />
+    <Content Include="uui2\images\dashboard-nav-arrow.png" />
     <Content Include="uui2\images\icons\favicon.ico" />
     <Content Include="uui2\images\icons\no-results-responsive.png" />
     <Content Include="uui2\images\icons\no-results.png" />
