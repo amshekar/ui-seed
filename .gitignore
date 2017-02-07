@@ -7,3 +7,5 @@
 /uui-seed/obj/Debug
 /uui-seed/bower_components
 /packages
+/uui-seed/node_modules
+/uui-seed/lib/_app

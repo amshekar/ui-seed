@@ -136,8 +136,8 @@
     <Content Include="app\trainings\partial-training.html" />
     <Content Include="app\trainings\training.controller.js" />
     <Content Include="Global.asax" />
+    <Content Include="gulpfile.js" />
     <Content Include="index.html" />
-    <Content Include="index1.html" />
     <Content Include="uui2\bootstrap\css\bootstrap-theme.css" />
     <Content Include="uui2\bootstrap\css\bootstrap-theme.min.css" />
     <Content Include="uui2\bootstrap\css\bootstrap.css" />
@@ -734,6 +734,7 @@
     <Content Include="uui2\tinymce\skins\epamuui\fonts\tinymce.woff" />
     <Content Include="app\i18n\common\en.json" />
     <Content Include="app\i18n\dashboard\en.json" />
+    <Content Include=".bowerrc" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
